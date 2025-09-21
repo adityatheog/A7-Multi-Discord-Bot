@@ -1,8 +1,8 @@
-A7 Multi Discord Bot
+# A7 Multi Discord Bot
 
 A7 Multi is a multi-purpose Discord bot built with Python. It provides moderation, fun, utility, and automation tools to make your server more engaging and easier to manage.
 
-✨ Features
+# ✨ Features
 
 🔒 Moderation – Ban, kick, mute, warn, clear messages.
 
@@ -15,7 +15,7 @@ A7 Multi is a multi-purpose Discord bot built with Python. It provides moderatio
 🌐 Multi-purpose – Custom commands, role management, and more.
 
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 1. Clone the Repository
 
@@ -44,7 +44,7 @@ python bot.py
 
 The bot should now be online and ready to use! 🎉
 
-🛠️ Requirements
+# 🛠️ Requirements
 
 Python 3.9+
 
@@ -53,10 +53,11 @@ discord.py (or py-cord/forks depending on your setup)
 Other dependencies listed in requirements.txt
 
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome! Fork this repository and submit pull requests with improvements.
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
+
